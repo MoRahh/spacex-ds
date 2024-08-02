@@ -31,4 +31,6 @@ This repository contains a comprehensive data science project focused on SpaceX 
 - SQLite
 - Folium
 - SQLAlchemy
+- Scikit-Learn
+- Scipy
 
